@@ -12,6 +12,10 @@ hr {
   background-color: black;
 }
 
+p {
+  padding: 25px;
+}
+
 .hover-div {
   color: white;
   border: solid 2px white;
