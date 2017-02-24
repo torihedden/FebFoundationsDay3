@@ -5,6 +5,7 @@
 
 header {
   font-size: 45px;
+  font-family: 'Roboto', sans-serif;
 }
 
 hr {
@@ -64,4 +65,28 @@ p {
 
 .hide {
   /*display: none;*/
+}
+
+.small-text {
+  font-size: 15px;
+  vertical-align: top;
+}
+
+.large-text {
+  font-size: 25px;
+}
+
+.nav-item {
+  border-bottom: solid 5px red;
+  display: inline-block;
+}
+
+.hover-example {
+  font-size: 50px;
+  color: red;
+}
+
+.hover-example:hover {
+  color: green;
+  text-transform: uppercase;
 }
