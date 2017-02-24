@@ -5,6 +5,7 @@
 
 header {
   font-size: 45px;
+  background: linear-gradient(to right, blue, white);
 }
 
 hr {
